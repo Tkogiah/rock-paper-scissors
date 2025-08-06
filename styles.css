@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.player-buttons {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+}
+.button-img {
+    max-width: 30px;
+    max-height: 30px;
+}
+

@@ -1,0 +1,11 @@
+-main
+    -front end
+        -visual
+        -audio
+        -logic
+        -api
+    -back end
+        -logic
+        -api
+        -web socket
+        
